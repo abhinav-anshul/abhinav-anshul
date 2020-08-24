@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Color Palette & a thing or two parallely
+- 🔭 I’m currently working on Color Palette & a thing or two parallelly
 - 🌱 I’m currently learning Vue & TypeScript
 - 💬 Ask me about JavaScript 
 - 📫 Reach out to me on [Twitter](https://twitter.com/abhinavanshul03)
