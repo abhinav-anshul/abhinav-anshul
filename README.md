@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Design System & a thing or two parallelly
 - 🌱 I’m currently learning design patterns
 - 💬 Ask me about JavaScript 
-- 📫 Reach out to me on [Twitter](https://twitter.com/abhinavanshul03)
+- 📫 Reach out to me on [Twitter](https://twitter.com/abhhnv)
 
 
