@@ -1,6 +1,3 @@
-![Cool_Rick](https://user-images.githubusercontent.com/26833319/133585885-76c8b10c-5814-43d1-ac89-65af416a43dd.png)
-
-
 <!--
 **abhinav-anshul/abhinav-anshul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
