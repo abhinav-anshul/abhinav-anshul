@@ -1,11 +1,17 @@
-<!--
-**abhinav-anshul/abhinav-anshul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there 👋
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Design System & a thing or two parallelly
-- 🌱 I’m currently learning design patterns
-- 💬 Ask me about JavaScript 
-- 📫 Reach out to me on [Twitter](https://twitter.com/abhhnv)
+I'm Abhinav! Currently wokring as a Frontend Engineer. 
+
+I have previously worked with Accenture, Consenso Labs as a fulltime engineer.
+
+Fun Projects that I built over the time - 
+
+1. [React Postal Code](https://www.npmjs.com/package/react-postal-code) - A tiny npm library that auto fills city, district, state for India as you type-in an Indian Pincode 
+
+I also occasionally share my tech writings at Logrocket:
+1. [Using Jotai with Next.js to share state across your app](https://blog.logrocket.com/using-jotai-next-js/)
+2. [Exploring React Router’s data, navigation, and error handling APIs](https://blog.logrocket.com/react-router-data-navigation-error-handling-apis/)
+3. [Schema validation in TypeScript with Zod](https://blog.logrocket.com/schema-validation-typescript-zod/)
 
 
+**[Blog](https://www.abhi.at/blog) | [contact.abhinavanshul@gmail.com](contact.abhinavanshul@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhinavanshul/)**
