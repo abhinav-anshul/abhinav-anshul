@@ -2,7 +2,7 @@
 
 I'm Abhinav! Currently wokring as a Frontend Engineer. 
 
-I have previously worked with Accenture, Consenso Labs as a fulltime engineer.
+I have previously worked with Accenture, Consenso Labs as a fulltime frontend engineer.
 
 Fun Projects that I built over the time - 
 
