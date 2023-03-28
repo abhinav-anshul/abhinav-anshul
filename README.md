@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Abhinav! Currently wokring as a Frontend Engineer. 
+I'm Abhinav! Currently working as a Frontend Engineer. 
 
 I have previously worked with Accenture, Consenso Labs as a fulltime frontend engineer.
 
