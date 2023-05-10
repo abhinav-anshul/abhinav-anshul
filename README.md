@@ -9,7 +9,7 @@ Fun Projects that I built over the time -
 1. [React Postal Code](https://www.npmjs.com/package/react-postal-code) - A tiny npm library that auto fills city, district, state for India as you type-in an Indian Pincode 
 2. [React Kyu](https://react-kyu.vercel.app/) - A super tiny & opinioniated React Toast Library.
 3. [SketchUp](https://sketchup.vercel.app/) -  A free flow, shareable whiteboard drawing tool for sketch and ideas!
-4. [Finlay](https://finlay.app/)
+4. [Finlay](https://finlay.app/) - An image mockup generator with a ton of configurable options.
 
 I also occasionally share my tech writings at Logrocket:
 1. [Using Jotai with Next.js to share state across your app](https://blog.logrocket.com/using-jotai-next-js/)
